@@ -11,6 +11,7 @@ h1 {
 }
 section {
   display: flex;
+  margin-bottom: 150px;
 }
 .rakib {
   width: 50%;
@@ -26,4 +27,7 @@ section {
   padding: 17px 40px;
   border-radius: 15px;
   font-weight: 700;
+}
+.about-me {
+  background-image: url(pic/background.png);
 }
